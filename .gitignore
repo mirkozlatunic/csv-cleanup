@@ -1,1 +1,4 @@
 .DS_Store
+.venv
+# Data files are never committed (synthetic, but kept local)
+data/
